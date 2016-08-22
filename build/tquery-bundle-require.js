@@ -42654,6 +42654,7 @@ requirejs.config({
 			"tquery.poolball": "plugins/poolball/tquery.poolball",
 			"tquery.pproc": "plugins/pproc/tquery.effectcomposer",
 			"tquery.renderers": "three.js/examples/js/renderers/CSS3DRenderer",
+			"tquery.roadground": "plugins/requirejs/confrequire/roadground.initrequire",
 			"tquery.shape": "plugins/shape/tquery.shape",
 			"tquery.simplemaze": "plugins/simplemaze/tquery.simplemaze",
 			"tquery.simpletree": "plugins/simpletree/tquery.simpletree",
